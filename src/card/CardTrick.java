@@ -4,6 +4,8 @@
  */
 package card;
 
+import java.util.Random;
+
 /**
  * A class that fills a magic hand of 7 cards with random Card Objects
  * and then asks the user to pick a card and searches the array of cards
@@ -54,6 +56,9 @@ public class CardTrick {
         // and search magicHand here
         //Then report the result here
         // add one luckcard hard code 2,clubs
-    }
     
-}
+
+
+
+
+
